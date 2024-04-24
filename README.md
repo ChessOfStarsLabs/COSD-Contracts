@@ -1,0 +1,1 @@
+The 'mini-cosd' directory contains the betting game contract, and the 'cosd' directory contains the cosd token contract and the contract for purchasing tokens.
